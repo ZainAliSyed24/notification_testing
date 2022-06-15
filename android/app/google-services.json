@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1090873742444",
+    "project_id": "notificationapp-ed2ec",
+    "storage_bucket": "notificationapp-ed2ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090873742444:android:bea32137dc6574fb5ab449",
+        "android_client_info": {
+          "package_name": "com.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090873742444-don75eocaqsb9mod7k4lr9e19pp6qjba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcFpXOP--f0nZ3363QTErwhCi3UiVVd3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090873742444-don75eocaqsb9mod7k4lr9e19pp6qjba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
